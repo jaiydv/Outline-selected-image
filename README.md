@@ -1,6 +1,9 @@
 # Outline the selected object
 
+
+
 https://user-images.githubusercontent.com/85070747/211163709-82e8b8db-a1a3-49ba-8b96-0704bf0c37c0.mp4
+
 
 
 This Python project allows you to outline a selected object by creating a square around it. The project utilizes the power of OpenCV and the `rembg` library.
